@@ -12,4 +12,4 @@ function Fibonacci (totalNumberOfSequence) {
     return fibArray;
 }
 
-console.log(fibo(5)) //just for safe test
+console.log(Fibonacci(5)) //just for safe test
